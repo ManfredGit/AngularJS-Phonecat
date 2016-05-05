@@ -1,0 +1,55 @@
+{
+  "ecmaVersion": 6,
+  "ide": {
+    "scriptPaths": [
+      {
+        "type": "FOLDER",
+        "path": "app/js"
+      }
+    ]
+  },
+  "plugins": {
+    "outline": {
+      
+    },
+    "guess-types": {
+      
+    },
+    "doc_comment": null,
+    "complete_strings": {
+      
+    },
+    "highlight": {
+      
+    },
+    "es_modules": {
+      
+    },
+    "node": {
+      
+    },
+    "jasmine": {
+      
+    },
+    "angular": {
+      
+    },
+    "dojotoolkit1.10": {
+      
+    },
+    "gulp": {
+      
+    },
+    "grunt": {
+      
+    },
+    "bootstrap": {
+      
+    }
+  },
+  "libs": [
+    "ecma5",
+    "browser",
+    "jquery"
+  ]
+}
